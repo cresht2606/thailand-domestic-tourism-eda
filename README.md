@@ -13,12 +13,6 @@ This dataset reveals the total revenue, number of tourists and accommodation exp
 - Separated versions for different training model sets (Time Series, Regression / Classification)
 - All-in-one savestate of each theme-based graphs
 
-### Possible enhancements in final version:
-- Comprehensive theme-based interpretation with references
-- OutlierStripping function: Export outliers dataset
-- Continual refinement of visual aids, particularly emojis
-- Deducted grammatic flaws, awkward vocabulary uses
-
 ### How to use
 To run this notebook, it is advisable to download [Anaconda](https://www.anaconda.com/download) on Windows
 1. Install Anaconda
